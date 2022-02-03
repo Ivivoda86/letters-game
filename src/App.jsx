@@ -10,7 +10,6 @@ const Letter = () => {
     <div className="App">
       <header className="App-header">
         <Grilla></Grilla>
-        <button>Enter</button>
       </header>
     </div>
   );

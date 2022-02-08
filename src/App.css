@@ -55,3 +55,15 @@ button {
 .grilla {
   width: 400px;
 }
+
+.correcto {
+  background-color: green;
+}
+
+.miss{
+  background-color: gray;
+}
+
+.soso{
+  background-color: blue;
+}

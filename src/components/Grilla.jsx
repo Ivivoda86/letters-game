@@ -41,6 +41,7 @@ const Grilla = () => {
 	const verLlenos = (item) => {
 		return item !== ''
 	}
+	// Primeras pruebas de funcionalidad
 	// const correcto2 = palabra === word2;
 	// const correcto3 = palabra === word3;
 	// const correcto4 = palabra === word4;
